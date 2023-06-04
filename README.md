@@ -32,3 +32,12 @@ To get started with Resume-Craftr, follow these simple steps:
 6.  Customize the sections, add your content, and adjust the styling to your liking.
 7.  Preview your resume, ensure its responsiveness, and make any necessary adjustments.
 8.  Finally, generate a print-ready version of your resume using React-to-Print.
+
+---
+---
+
+
+## **[Visit the Website](https://resume-ss.netlify.app/)**
+
+---
+---
