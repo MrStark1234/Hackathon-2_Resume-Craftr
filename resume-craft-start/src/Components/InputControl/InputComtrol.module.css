@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+label {
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+input {
+  border: 1px solid #cccccc;
+  outline: none;
+  padding: 10px 12px;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+
+input:hover {
+  border: 1px solid #adadad;
+}
+
+input:focus {
+  border: 1px solid #e22359;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  /* Adjust container styles for smaller screens */
+  .container {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  /* Adjust input styles for smaller screens */
+  input {
+    width: 100%;
+  }
+}
