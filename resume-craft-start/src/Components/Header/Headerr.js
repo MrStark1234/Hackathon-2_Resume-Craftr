@@ -17,7 +17,7 @@ const Headerr = () => {
             <span>Resume-Craftr</span>
           </p>
           <p className={styles.heading}>
-            Helps to build your own resume. <span>For free</span>
+            Build The Resume That Gets You Hired!. <span>For Free</span>
           </p>
         </div>
         <div className={styles.right}>

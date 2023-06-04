@@ -79,9 +79,9 @@ const Abt = () => {
                 color: "white",
               }}
             >
-              Hi there! I'm <big className="bigg"> Suraj Singhal </big>, the
-              creator of this website. I'm a software engineer based in India
-              and I love building things with code.
+              Hi, I'm <big className="bigg"> Suraj Singhal </big>, the creator
+              of this website. I'm a software engineer based in India and I love
+              building things with code.
             </AnimatedText>
 
             <AnimatedText
